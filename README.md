@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 <h1></h1>
 <div align="center">
 <img src="https://github.com/Prafulpatnecha/news_app/blob/master/image.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/news_app/blob/master/image.2png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/news_app/blob/master/image1.png" height=450px hspace=20>
 
 </div>
 

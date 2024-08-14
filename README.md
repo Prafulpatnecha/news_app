@@ -34,3 +34,5 @@ samples, guidance on mobile development, and a full API reference.
 
 https://github.com/user-attachments/assets/9a04e766-652c-4849-9599-ecaf7a6bbf94
 
+## Description
+Dive into the world of news with our app, designed to keep you informed on the go. Whether you're tracking global events, following your favorite topics, or staying updated with local news, we've got you covered.

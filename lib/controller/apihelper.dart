@@ -6,11 +6,11 @@ import 'package:http/http.dart' as http;
 // image link -> https://graphicsfamily.com/wp-content/uploads/edd/2021/11/News-Logo-Template-Download-scaled.jpg
 
 class ApiHelper {
-  String linkOne="https://newsapi.org/v2/everything?q=apple&from=2024-08-12&to=2024-08-12&sortBy=popularity&apiKey=6ad5d62bae3f45d39b2868b0dac53759";
-  String linkTwo="https://newsapi.org/v2/everything?q=tesla&from=2024-07-13&sortBy=publishedAt&apiKey=6ad5d62bae3f45d39b2868b0dac53759";
-  String linkThree="https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=6ad5d62bae3f45d39b2868b0dac53759";
-  String linkFour="https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=6ad5d62bae3f45d39b2868b0dac53759";
-  String linkFive="https://newsapi.org/v2/everything?domains=wsj.com&apiKey=6ad5d62bae3f45d39b2868b0dac53759";
+  String linkOne="https://newsapi.org/v2/everything?q=apple&from=2024-08-13&to=2024-08-13&sortBy=popularity&apiKey=1c288589f0ac4f6e808e90529806ffd6";
+  String linkTwo="https://newsapi.org/v2/everything?q=tesla&from=2024-07-14&sortBy=publishedAt&apiKey=1c288589f0ac4f6e808e90529806ffd6";
+  String linkThree="https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=1c288589f0ac4f6e808e90529806ffd6";
+  String linkFour="https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=1c288589f0ac4f6e808e90529806ffd6";
+  String linkFive="https://newsapi.org/v2/everything?domains=wsj.com&apiKey=1c288589f0ac4f6e808e90529806ffd6";
   Future<Map> apiCallingOne()
   async {
     Uri urlOne=Uri.parse(linkOne);

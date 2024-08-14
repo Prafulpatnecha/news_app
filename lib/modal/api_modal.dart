@@ -1,7 +1,7 @@
 
 class ApiModal {
   late dynamic status;
-  late int totalResults;
+  late dynamic totalResults;
   late List<Articles> articles;
 
   ApiModal({required this.status,required this.totalResults,required this.articles});

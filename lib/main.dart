@@ -5,6 +5,6 @@ import 'package:news_app/view/control_files.dart';
 
 void main()
 {
-  NewsController newsController = Get.put(NewsController());
+  Get.put(NewsController());
   runApp(const MyApp());
 }

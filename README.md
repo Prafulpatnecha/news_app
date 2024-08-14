@@ -14,3 +14,23 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+###
+<h1></h1>
+<h3 align="center"><i>News App Using GETx & News Api</i></h3>
+<h1></h1>
+<div align="center">
+<img src="https://github.com/Prafulpatnecha/news_app/blob/master/image.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/news_app/blob/master/image.2png" height=450px hspace=20>
+
+</div>
+
+<h1></h1>
+<div align="center">
+<a href="https://github.com/Prafulpatnecha/news_app/tree/master/lib">-> Code File Link <-</a>
+</div>
+<h1></h1>
+
+https://github.com/user-attachments/assets/9a04e766-652c-4849-9599-ecaf7a6bbf94
+
